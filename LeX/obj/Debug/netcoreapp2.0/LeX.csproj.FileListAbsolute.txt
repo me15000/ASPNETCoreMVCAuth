@@ -1,0 +1,12 @@
+E:\Projects\LeX\LeX\bin\Debug\netcoreapp2.0\LeX.deps.json
+E:\Projects\LeX\LeX\bin\Debug\netcoreapp2.0\LeX.runtimeconfig.json
+E:\Projects\LeX\LeX\bin\Debug\netcoreapp2.0\LeX.runtimeconfig.dev.json
+E:\Projects\LeX\LeX\bin\Debug\netcoreapp2.0\LeX.dll
+E:\Projects\LeX\LeX\bin\Debug\netcoreapp2.0\LeX.pdb
+E:\Projects\LeX\LeX\obj\Debug\netcoreapp2.0\LeX.csprojResolveAssemblyReference.cache
+E:\Projects\LeX\LeX\obj\Debug\netcoreapp2.0\LeX.csproj.CoreCompileInputs.cache
+E:\Projects\LeX\LeX\obj\Debug\netcoreapp2.0\LeX.AssemblyInfoInputs.cache
+E:\Projects\LeX\LeX\obj\Debug\netcoreapp2.0\LeX.AssemblyInfo.cs
+E:\Projects\LeX\LeX\obj\Debug\netcoreapp2.0\LeX.dll
+E:\Projects\LeX\LeX\obj\Debug\netcoreapp2.0\LeX.pdb
+E:\Projects\LeX\LeX\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
